@@ -13,4 +13,5 @@ Pytorch.
 - [Harzan Hazanan](https://github.com/hharzan)
 - [Kong Wei Jian](https://github.com/weijiankong0329)
 - [Hilman Hilmi](https://github.com/ali-ihssan)
+- [Ezlan Zulfiqree](https://github.com/ezzylan)
 - [Ma Li](https://github.com/Nobody9810)
