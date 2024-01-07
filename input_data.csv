@@ -1,0 +1,73 @@
+﻿Movement_ID,Video_ID,File_Path,Start_Time,End_Time,Movement_Name
+1,2,final_exam/input/2.mp4,0:00:11,0:00:16,Moving arms
+2,2,final_exam/input/2.mp4,0:00:19,0:00:23,Moving arms
+3,2,final_exam/input/2.mp4,0:00:28,0:00:33,Moving arms
+4,3,final_exam/input/3.mp4,0:00:22,0:00:27,Moving arms
+5,4,final_exam/input/4.mp4,0:01:05,0:01:12,Moving arms
+6,4,final_exam/input/4.mp4,0:02:12,0:02:20,Moving arms
+7,5,final_exam/input/5.mp4,0:00:02,0:00:14,Moving arms
+8,8,final_exam/input/8.mp4,0:00:18,0:00:21,Both hand shaking
+9,8,final_exam/input/8.mp4,0:00:47,0:00:51,Both hand shaking
+10,8,final_exam/input/8.mp4,0:01:10,0:01:17,Both hand shaking
+11,8,final_exam/input/8.mp4,0:01:30,0:01:48,Both hand shaking
+12,8,final_exam/input/8.mp4,0:02:03,0:02:05,Both hand shaking
+13,8,final_exam/input/8.mp4,0:02:08,0:02:15,Both hand shaking
+14,8,final_exam/input/8.mp4,0:03:16,0:03:21,Both hand shaking
+15,8,final_exam/input/8.mp4,0:03:40,0:03:44,Both hand shaking
+16,10,final_exam/input/10.mp4,0:00:18,0:00:27,Moving arms
+17,10,final_exam/input/10.mp4,0:00:33,0:00:37,Both hand shaking
+18,10,final_exam/input/10.mp4,0:00:50,0:00:57,Both hand shaking
+19,10,final_exam/input/10.mp4,0:01:08,0:01:25,Both hand shaking
+20,13,final_exam/input/13.mp4,0:00:19,0:00:22,Moving arms
+21,13,final_exam/input/13.mp4,0:00:40,0:00:51,Moving arms
+22,14,final_exam/input/14.mp4,0:00:03,0:00:07,Both hand shaking
+23,15,final_exam/input/15.mp4,0:00:17,0:00:23,Moving arms
+24,15,final_exam/input/15.mp4,0:00:32,0:00:37,Moving arms
+25,16,final_exam/input/16.mp4,0:00:32,0:00:46,Both hand shaking
+26,18,final_exam/input/18.mp4,0:00:03,0:00:07,Both hand shaking
+27,18,final_exam/input/18.mp4,0:00:40,0:00:50,Both hand shaking
+28,19,final_exam/input/19.mp4,0:02:55,0:03:10,Both hand shaking
+29,19,final_exam/input/19.mp4,0:03:25,0:03:39,Both hand shaking
+30,20,final_exam/input/20.mp4,0:01:34,0:01:38,Moving arms
+31,21,final_exam/input/21.mp4,0:00:07,0:00:16,Both hand shaking
+32,22,final_exam/input/22.mp4,0:00:02,0:00:06,Both hand shaking
+33,22,final_exam/input/22.mp4,0:00:41,0:00:55,Both hand shaking
+34,22,final_exam/input/22.mp4,0:01:00,0:01:29,Both hand shaking
+35,22,final_exam/input/22.mp4,0:01:34,0:01:42,Both hand shaking
+36,22,final_exam/input/22.mp4,0:01:50,0:01:54,Both hand shaking
+37,22,final_exam/input/22.mp4,0:01:55,0:01:58,Both hand shaking
+38,24,final_exam/input/24.mp4,0:00:08,0:00:15,Both hand shaking
+39,25,final_exam/input/25.mp4,0:00:04,0:00:08,Moving arms
+40,26,final_exam/input/26.mp4,0:00:38,0:00:41,Moving arms
+41,26,final_exam/input/26.mp4,0:01:06,0:01:09,Moving arms
+42,26,final_exam/input/26.mp4,0:01:38,0:01:40,Moving arms
+43,26,final_exam/input/26.mp4,0:01:51,0:01:55,Moving arms
+44,26,final_exam/input/26.mp4,0:02:16,0:02:18,Moving arms
+45,27,final_exam/input/27.mp4,0:00:03,0:00:10,Moving arms
+46,28,final_exam/input/28.mp4,0:00:04,0:00:12,Both hand shaking
+47,29,final_exam/input/29.mp4,0:00:01,0:00:03,Moving arms
+48,29,final_exam/input/29.mp4,0:00:06,0:00:07,Moving arms
+49,29,final_exam/input/29.mp4,0:00:12,0:00:14,Moving arms
+50,29,final_exam/input/29.mp4,0:00:18,0:00:23,Moving arms
+51,29,final_exam/input/29.mp4,0:00:26,0:00:29,Moving arms
+52,29,final_exam/input/29.mp4,0:00:50,0:00:52,Moving arms
+53,29,final_exam/input/29.mp4,0:01:10,0:01:12,Moving arms
+54,30,final_exam/input/30.mp4,0:00:07,0:00:09,Moving arms
+55,30,final_exam/input/30.mp4,0:00:14,0:00:17,Moving arms
+56,30,final_exam/input/30.mp4,0:00:19,0:00:20,Moving arms
+57,31,final_exam/input/31.mp4,0:00:03,0:00:11,Moving arms
+58,31,final_exam/input/31.mp4,0:00:15,0:00:17,Moving arms
+59,32,final_exam/input/32.mp4,0:00:02,0:00:09,Both hand shaking
+60,32,final_exam/input/32.mp4,0:00:18,0:00:26,Both hand shaking
+61,33,final_exam/input/33.mp4,0:00:00,0:00:05,Moving arms
+62,33,final_exam/input/33.mp4,0:00:16,0:00:18,Moving arms
+63,33,final_exam/input/33.mp4,0:00:24,0:00:25,Moving arms
+64,33,final_exam/input/33.mp4,0:00:30,0:00:32,Moving arms
+65,33,final_exam/input/33.mp4,0:00:39,0:00:43,Moving arms
+66,33,final_exam/input/33.mp4,0:01:10,0:01:15,Both hand shaking
+67,33,final_exam/input/33.mp4,0:01:29,0:01:32,Moving arms
+68,33,final_exam/input/33.mp4,0:01:39,0:01:40,Moving arms
+69,34,final_exam/input/34.mp4,0:00:00,0:00:01,Both hand shaking
+70,35,final_exam/input/35.mp4,0:00:07,0:00:08,Both hand shaking
+71,35,final_exam/input/35.mp4,0:00:14,0:00:18,Both hand shaking
+72,35,final_exam/input/35.mp4,0:00:34,0:00:36,Both hand shaking
